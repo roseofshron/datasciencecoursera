@@ -1,3 +1,5 @@
+My code tweaks the data described below. All units remain the same. 
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
@@ -66,7 +68,7 @@ fBodyGyroMag
 fBodyGyroJerkMag
 
 
-The set of variables that were estimated from these signals are: 
+I used the following variables calculated from the above list:
 
 mean(): Mean value
 
